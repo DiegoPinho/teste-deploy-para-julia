@@ -4,7 +4,7 @@ import Nav from '@/components/Nav';
 import astronauta from "@/assets/astronalta.png";
 import { StarBackground } from '@/components/StarBackground';
 import { Contact } from '@/components/Contact';
-import Jellyfish from "@/assets/Jellyfish.png"
+import Jellyfish from "@/assets/jellyfish.png"
 import { Typewriter } from 'react-simple-typewriter';
 import { useTheme } from '@/contexts/ThemeContext';
 import BubbleBackground from '../components/bubblesBackground';
